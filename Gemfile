@@ -7,7 +7,7 @@ gem 'test-unit', '~> 3.2'
 gem 'bundler'
 
 gem "rails", "~> 5.2.4"
-gem "rack", "~> 2.1", ">= 2.1.4"
+gem "rack", "~> 2.2"
 gem "sprockets", "< 4"
 
 gem 'rails-observers', git: 'https://github.com/rails/rails-observers'
